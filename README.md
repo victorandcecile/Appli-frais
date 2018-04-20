@@ -16,3 +16,11 @@ Lien Appli Frais  en ligne [ici](http://ppe2.kwalys.com).
       *   Importer la base de donnée avec le wizard opération
 4.  Modifier le fichier config.php avec les paramètres de votre bdd
 
+## Gestion de compte rendu
+
+#### Msi
+Télécharger le .msi présent dans le repository et suivez les instructions d'installation
+
+#### Visual studio
+Si visual studio est installé télécharger le code source ou bien télécharger le fichier setup
+
