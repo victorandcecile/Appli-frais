@@ -31,11 +31,11 @@ La partie de le gestion compte rendu ce fait avec l'apk présent dans le reposit
 type de connexion : Identifant | Mot de passe
 #### Application Frais
 
-visiteur : vic | fou
-comptable : admin | admin
+* visiteur : vic | fou
+* comptable : admin | admin
 
 #### Gestion de compte rendu
 
-visiteur : cécile | cousin
-délégué : victor | morel
-responsable : vic | fou
+* visiteur : cécile | cousin
+* délégué : victor | morel
+* responsable : vic | fou
