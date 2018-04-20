@@ -1,4 +1,4 @@
-# Projet BTS Victor Morel et Cécile cousin
+# Projet BTS Victor Morel et Cécile Cousin
 Application Frais et Gestion Compte rendu (contexte GSB)
 
 ## Application Frais
