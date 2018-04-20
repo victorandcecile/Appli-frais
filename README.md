@@ -25,7 +25,7 @@ Télécharger le .msi présent dans le repository et suivez les instructions d'i
 Si visual studio est installé télécharger le code source (.rar) ou bien télécharger le fichier setup
 
 #### Apk (responsable)
-La partie de le gestion compte rendu ce fait avec l'apk présent dans le repository
+La partie responsable ce fait avec l'apk présent dans le repository
 
 ## Log 
 type de connexion : Identifant | Mot de passe
