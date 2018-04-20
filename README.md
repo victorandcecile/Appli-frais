@@ -26,3 +26,16 @@ Si visual studio est installé télécharger le code source ou bien télécharge
 
 #### Apk (responsable)
 La partie de le gestion compte rendu ce fait avec l'apk présent dans le repository
+
+## Log 
+type de connexion : Identifant | Mot de passe
+#### Application Frais
+
+visiteur : vic | fou
+comptable : admin | admin
+
+#### Gestion de compte rendu
+
+visiteur : cécile | cousin
+délégué : victor | morel
+responsable : vic | fou
