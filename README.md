@@ -22,7 +22,7 @@ Lien Appli Frais  en ligne [ici](http://ppe2.kwalys.com).
 Télécharger le .msi présent dans le repository et suivez les instructions d'installation
 
 #### Visual studio (visiteurs et délégué)
-Si visual studio est installé télécharger le code source ou bien télécharger le fichier setup
+Si visual studio est installé télécharger le code source (.rar) ou bien télécharger le fichier setup
 
 #### Apk (responsable)
 La partie de le gestion compte rendu ce fait avec l'apk présent dans le repository
